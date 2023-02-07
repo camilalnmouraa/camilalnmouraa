@@ -27,6 +27,7 @@ I'm a Quality Assurance working at [Checkmob](https://checkmob.com.br/).
 <a href="https://www.github.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" alt="GitHub" width="40" height="40"/> </a>
 <a href="https://www.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC" alt="V S Code" width="40" height="40"/> </a>
 </div>
+  
 <br>
 
 <div>
@@ -38,12 +39,14 @@ I'm a Quality Assurance working at [Checkmob](https://checkmob.com.br/).
 </a><a href="https://www.cypress.io/" target=_blank" rel"noreferrer"> <img alt="cypress" height="40" width="40" src="https://asset.brandfetch.io/idIq_kF0rb/idv3zwmSiY.jpeg">
 
 </div>
+  <br>
   
 <div>
 <h3 align="left">Cloud:</h3>
 <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
 </div>
+  <br>
 
 ### Analytics
 
@@ -52,7 +55,8 @@ I'm a Quality Assurance working at [Checkmob](https://checkmob.com.br/).
  <div align="right">
    
   <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=camilalnmouraa&theme=radical"/> 
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=camilalnmouraa&show_icons=true&theme=radical&include_all_commits=true&count_private=false&hide_border=true"/> <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=camilalnmouraa&theme=radical&hide_border=true"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=camilalnmouraa&show_icons=true&theme=radical&include_all_commits=true&count_private=false&hide_border=true"/>
+<img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=camilalnmouraa&theme=radical&hide_border=true"/>
   
 </div>
  
@@ -60,8 +64,6 @@ I'm a Quality Assurance working at [Checkmob](https://checkmob.com.br/).
   
 ##
  
-   
-   ![snake gif](https://github.com/isabellylemos/isabellylemos/blob/output/github-contribution-grid-snake.svg)
    
   
   ### Let's connect ? 🤝
