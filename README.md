@@ -10,7 +10,7 @@
 I'm a Quality Assurance working at [Checkmob](https://checkmob.com.br/).
 
 - :computer: I'm currently working with Cypress and some other stuffs like BDD and test plans.
-- :notebook: I'm currently learning K6 and testing fundamentals.
+- :notebook: I'm currently learning testing fundamentals.
 - :video_game: In my free time, I like to read, practice sports, and learn something new.
 
   </h4>
@@ -45,7 +45,7 @@ I'm a Quality Assurance working at [Checkmob](https://checkmob.com.br/).
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
 </div>
 
-### Analytics ⚙️
+### Analytics
 
 <br>
 
