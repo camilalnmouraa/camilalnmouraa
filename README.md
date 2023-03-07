@@ -55,7 +55,7 @@ I'm a Quality Assurance working at [Checkmob](https://checkmob.com.br/).
  <div align="right">
    
   <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=camilalnmouraa&theme=radical"/> 
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=camilalnmouraa&show_icons=true&theme=radical&include_all_commits=true&count_private=false&hide_border=true"/>
+
 <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=camilalnmouraa&theme=radical&hide_border=true"/>
   
 </div>
