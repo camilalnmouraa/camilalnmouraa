@@ -7,7 +7,7 @@
    
   ### About me
 
-I'm a Quality Assurance working at [Checkmob](https://checkmob.com.br/).
+I'm a Quality Assurance working at [Viasoft](https://viasoft.com.br/).
 
 - :computer: I'm currently working with Cypress and some other stuffs like BDD and test plans.
 - :notebook: I'm currently learning testing fundamentals.
