@@ -2,16 +2,18 @@
 
   <h1>Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"/></h1> 
 <h4>
-<img align="right" width="80" src="https://media.giphy.com/media/0TtX2qqpxp3pIafzio/giphy.gif">
+ <img align="right" width="80" src="https://media.giphy.com/media/0TtX2qqpxp3pIafzio/giphy.gif">
   
    
   ### About me
 
-I'm a Quality Assurance working at [Viasoft](https://viasoft.com.br/).
+I'm a passionate software tester working at [Viasoft](https://viasoft.com.br/).
 
-- :computer: I'm currently working with Cypress and some other stuffs like BDD and test plans.
-- :notebook: I'm currently learning testing fundamentals.
-- :video_game: In my free time, I like to read, practice sports, and learn something new.
+- :computer: I'm currently working with Cypress and some other stuffs like BDD and test plans
+- :notebook: I'm currently learning testing fundamentals
+- :video_game: In my free time, I like to read, practice sports, and learn something new
+- :speaking_head: Ask me about **Testing Process,Cypress,Selenium,Framework SetUp, CI/CD**
+- :email: You can reach me at **moura.camilaluiza@gmail.com**
 
   </h4>
   
@@ -23,10 +25,11 @@ I'm a Quality Assurance working at [Viasoft](https://viasoft.com.br/).
 </a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.git.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" alt="Git" width="40" height="40"/> </a>
-<a href="https://www.github.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" alt="GitHub" width="40" height="40"/> </a>
-<a href="https://www.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC" alt="V S Code" width="40" height="40"/> </a>
+</a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+</a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 </div>
+
   
 <br>
 
@@ -37,7 +40,6 @@ I'm a Quality Assurance working at [Viasoft](https://viasoft.com.br/).
 <a href="https://www.postman.com/" target=_blank" rel"noreferrer"> <img alt="postman" height="40" width="40" src="https://www.svgrepo.com/download/354202/postman-icon.svg">
 </a> <a href="https://insomnia.rest/download" target=_blank" rel"noreferrer"> <img alt="insomnia" height="40" width="40" src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png">
 </a><a href="https://www.cypress.io/" target=_blank" rel"noreferrer"> <img alt="cypress" height="40" width="40" src="https://asset.brandfetch.io/idIq_kF0rb/idv3zwmSiY.jpeg">
-
 </div>
   <br>
   
@@ -45,6 +47,7 @@ I'm a Quality Assurance working at [Viasoft](https://viasoft.com.br/).
 <h3 align="left">Cloud:</h3>
 <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
+<a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
 </div>
   <br>
 
@@ -52,14 +55,11 @@ I'm a Quality Assurance working at [Viasoft](https://viasoft.com.br/).
 
 <br>
 
- <div align="right">
-   
-  <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=camilalnmouraa&theme=radical"/> 
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=camilalnmouraa&show_icons=true&locale=en&layout=compact" alt="camilalnmouraa" /></p>
 
-<img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=camilalnmouraa&theme=radical&hide_border=true"/>
-  
-</div>
- 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=camilalnmouraa&show_icons=true&locale=en" alt="camilalnmouraa" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=camilalnmouraa&" alt="camilalnmouraa" /></p>
   
   
 ##
